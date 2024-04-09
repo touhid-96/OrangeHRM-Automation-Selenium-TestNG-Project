@@ -50,6 +50,9 @@ or
 `allure generate allure-results --clean`  
 `allure serve allure-results --clean`
 
+## Test Case
+https://docs.google.com/spreadsheets/d/1hYoGyGd56HxPzVGG1XJR0346oaRm-l_-PwLAFRE4GxI/edit?usp=drive_link
+
 ## Video of Automation Output
 ### Regression Test
 https://github.com/touhid-96/OrangeHRM-Automation-Selenium-TestNG-Project/assets/29010371/b3c5f2c8-d9b2-4f38-9cce-461941f559a0
