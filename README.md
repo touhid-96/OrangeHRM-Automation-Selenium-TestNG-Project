@@ -34,7 +34,7 @@ For a strong password, please use a hard to guess combination of text with upper
 - Configure environment variable for Java, Gradle and Allure Report
 
 ## Website
-- https://opensource-demo.orangehrmlive.com/
+- `https://opensource-demo.orangehrmlive.com/`
 
 ## How to run this project
 - Clone the project
